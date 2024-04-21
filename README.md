@@ -5,7 +5,7 @@ A CLI Based [ Made Using Python ] Calculator Inspired By [Numi](https://numi.app
 
 # Contibutions ?
 
-### Yes, We Are Looking For Colaborators.
+### We Are Looking For Colaborators.
 
 This Project Is Developed My Me And Parm.
 
