@@ -8,12 +8,11 @@ This Project Is Currently Developed By Me And Parm.
 
 If You Are Intrested To Contribute Please DM Me/Param Via Discord.
 
+|   Discord IDS   | 
+|---|---|
+| Param | paramk | 
+| Soham | spreadsheets600 |
 
-Discord IDs:
-
-PARAM : paramk
-
-SOHAM : spreadsheets600
 
 ----
 # 🚧 UNDER CONSTRUCTION 🚧
