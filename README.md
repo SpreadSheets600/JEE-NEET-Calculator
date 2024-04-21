@@ -6,11 +6,12 @@ A CLI Based [ Made Using Python ] Calculator Inspired By [Numi](https://numi.app
 # Contibutions ?
 ### Yes, We Are Looking For Colaborators.
 
-If You Are Intrested To Contribute Please DM Me/Param Via Discord.
+If You Are Intrested To Contribute Please DM Us On Discord.
 
-|Discord IDS | |
-|--|--|
-| Param | paramk  |
-| Soham |spreadsheets600|
+### Current Contibutors :
+1. [PARAM](https://github.com/paramkhodiyar) 
+2. [SOHAM](https://github.com/spreadsheets600) 
+
+### Discord Server : https://discord.gg/Udw6jpcfmm
 
 
