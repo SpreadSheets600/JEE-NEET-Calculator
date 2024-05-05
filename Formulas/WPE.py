@@ -199,5 +199,19 @@ def collision_phy():
                     v1 = float(input('Enter the final velocity of body1 :'))
                     u2 = float(input('Enter the initial velocity of body2 :'))
                     v2 = float(input('Enter the final velocity of body2 :'))
+                    p = m*v1    #momentum of the body                   
+                    m2 = p/v2           
+
+                    return m2               
+                if ch==2:
+                    m = float(input('enter the mass of known body  (in kgs): '))
+                    u1 = float(input('Enter the initial velocity of body1 :'))
+                    v1 = float(input('Enter the final velocity of body1 :'))
+                    u2 = float(input('Enter the initial velocity of body2 :'))
+                    v2 = float(input('Enter the final velocity of body2 :'))
+                    p = m*v1    #momentum of the body   
+                    m2 = p/v2
+                    return m2
+                 
 
 
